@@ -21,11 +21,11 @@ Global_1315318 = 0 or Global_1315323 = 9 or 12 or (Global_1312629 = 0 && Global_
 ```
 
 ## Parameters
-* **p0**: 
-* **p1**: 
-* **p2**: 
-* **maxPlayers**: 
-* **p4**: 
-* **p5**: 
+* **p0**: 2
+* **p1**: 0
+* **p2**: 0
+* **maxPlayers**: x360
+* **p4**: 0
+* **p5**: 2
 
 ## Return value
